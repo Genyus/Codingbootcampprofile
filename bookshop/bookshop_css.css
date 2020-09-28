@@ -1,5 +1,11 @@
-.header h1,
-.header .breadcrumb {
+body {
+   background-image: url(https://images2.minutemediacdn.com/image/upload/c_fill,g_auto,h_1248,w_2220/f_auto,q_auto,w_1100/v1554741904/shape/mentalfloss/559404-istock-512966920_0.jpg);
+}
+
+h1 {text-align: center;
+background-color: white;
+}
+header .breadcrumb {
    text-align: center;
 }
 .book {
